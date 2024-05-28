@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    margin: 5px;
+    padding: 10px 5px 10px;
+    color: red;
+    text-align: right;
+    font-weight: lighter;
+    background-color: yellow;
+    border: 1px solid black;
+}
