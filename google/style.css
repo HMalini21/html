@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.main {
+    margin-top: 200px;
+}
+.logo-img{
+    
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 300px;
+}
+.search-input{
+    display: block;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px 20px;
+    width: 500px;
+    border-radius: 20px;
+    border:1px solid #ccc ;
+}
+
+#search {
+    padding: 20px;
+}
