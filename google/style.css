@@ -29,12 +29,16 @@
     padding: 20px;
 }
 
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+}
 
 button{
    text-align: center;
     margin-top: 30px;
-    margin-right: auto;
-    margin-left: auto;
+    margin-right: 8px;
+    margin-left: 8px;
     padding: 8px 16px;
     border: none;
     border-radius: 8px;
