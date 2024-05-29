@@ -3,7 +3,6 @@
     padding: 0%;
 }
 
-
 .main {
     margin-top: 200px;
 }
@@ -43,4 +42,10 @@ button{
     border: none;
     border-radius: 8px;
     background: #efefef;
+}
+
+p{
+    margin-top: 200px;
+    text-align: center;
+    
 }
