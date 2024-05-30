@@ -1,0 +1,36 @@
+
+
+body{
+  
+background-color: blanchedalmond;
+
+}
+.cartoons div {
+  width: 50%;
+  height: 30%;
+}
+a{
+  display: block;
+  text-align: center; 
+}
+h1{
+  background-color: #FFF4A3;
+
+  justify-content: space-evenly;
+}
+
+.cartoons p{
+  background-color:#FFC0C7;
+}
+
+img{
+  width: 150px;
+ 
+}
+ul>p{
+  background-color: rgb(194, 241, 245);
+}
+footer{
+  text-align: center;
+  background-color:coral
+}
